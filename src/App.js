@@ -1,5 +1,11 @@
+import Markdown from './components/Markdown'
+
 function App() {
-    return <div className="App">helloo</div>
+    return (
+        <>
+            <Markdown />
+        </>
+    )
 }
 
 export default App
