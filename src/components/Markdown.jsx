@@ -56,8 +56,8 @@ const Markdown = () => {
                     />
                 </div>
                 <textarea
-                    id="style-1"
-                    className=" block w-full h-[calc(100%_-_40px)] px-3 py-2 bg-black text-white"
+                    id="editor"
+                    className="customScrollbar block w-full h-[calc(100%_-_40px)] px-3 py-2 bg-black text-white"
                     name=""
                     onChange={handleTextArea}
                     placeholder="Write your markdown here."
@@ -76,8 +76,8 @@ const Markdown = () => {
                     />
                 </div>
                 <div
-                    id="style-1"
-                    className="px-3 py-2 w-full h-[calc(100%_-_40px)] overflow-auto text-white markdown-body"
+                    id="preview"
+                    className="customScrollbar px-3 py-2 w-full h-[calc(100%_-_40px)] overflow-auto text-white markdown-body"
                     ref={markedTexts}
                 />
             </div>
