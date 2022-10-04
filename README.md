@@ -19,9 +19,14 @@ markdown previewer example
 
 -   https://codepen.io/freeCodeCamp/full/GrZVVO
 
+min-height with calc function not working
+
+-   https://stackoverflow.com/questions/37593654/min-height-with-calc-function-not-working
+
 Libraries:
 
 -   https://www.npmjs.com/package/sanitize-html
 -   [Add css style to markdown](https://github.com/sindresorhus/github-markdown-css)
 -   [markdown parser](https://github.com/markedjs/marked)
 -   [markdown parser](https://www.npmjs.com/package/marked?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library)
+-   [react-icons](https://react-icons.github.io/react-icons)
