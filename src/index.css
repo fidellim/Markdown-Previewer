@@ -7,6 +7,9 @@
         background-color: azure;
     }
 
+    textarea {
+        resize: none;
+    }
 }
 
 #style-1::-webkit-scrollbar-track {
