@@ -12,7 +12,10 @@ const Markdown = () => {
         // console.log(sanitizeHtml(marked.parse(text)))
         // img by default is not added in sanitizeHtml
         const allowedTags = {
-            allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img']),
+            allowedTags: sanitizeHtml.defaults.allowedTags.concat([
+                'img',
+                'del',
+            ]),
         }
 
         markedTexts.current.innerHTML = sanitizeHtml(
