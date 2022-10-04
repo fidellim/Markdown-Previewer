@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Solution]()
--   Live Site URL: [Live Site]()
+-   Solution URL: [Solution](https://github.com/fidellim/Markdown-Previewer)
+-   Live Site URL: [Live Site](https://markdown-previewer-fidellim.netlify.app/)
 
 ## My process
 
