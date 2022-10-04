@@ -8,6 +8,11 @@ const Markdown = () => {
     const [isPreviewerOpen, setIsPreviewerOpen] = useState(false)
     const markedTexts = useRef()
 
+    // convert carriage returns as <br>
+    marked.setOptions({
+        breaks: true,
+    })
+
     useEffect(() => {
         // console.log(sanitizeHtml(marked.parse(text)))
         // img by default is not added in sanitizeHtml
