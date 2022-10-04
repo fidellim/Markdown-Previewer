@@ -24,6 +24,8 @@ Users should be able to:
 
 ![Solution Desktop](/images/solution_desktop.png)
 
+![Solution Mobile](/images/solution_mobile_1.png)
+![Solution Mobile](/images/solution_mobile_2.png)
 
 ### Links
 
