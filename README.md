@@ -47,6 +47,11 @@ Users should be able to:
 -   [Markdown text needs to be sanitized](https://niharraoteblog.netlify.app/vue-markdown-editor)
 -   [Markdown Previewer Example](https://codepen.io/freeCodeCamp/full/GrZVVO)
 -   [Min-height with calc function not working](https://stackoverflow.com/questions/37593654/min-height-with-calc-function-not-working)
+-   Interpret carriage returns and render as `<br>`
+
+    -   [Part I](https://forum.freecodecamp.org/t/understanding-markdown/271965/2)
+    -   [Part II](https://marked.js.org/using_advanced#options)
+
 -   Custom scrollbar
 
     -   [Part I](https://csshint.com/css-custom-scroll-bar/)
